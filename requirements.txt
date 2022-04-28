@@ -1,8 +1,5 @@
 pymongo
-pandas as pd
-dash
-dash import html
-dash import dcc 
-numpy as np
-plotly.express as px
-plotly.graph_objects as go
+pandas
+dash 
+numpy
+plotly
