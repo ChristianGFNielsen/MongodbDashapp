@@ -7,7 +7,7 @@ import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
 
-myclient = pymongo.MongoClient("mongodb+srv://chri733q:piksvin10000@cluster0.wejpo.mongodb.net/test")
+myclient = pymongo.MongoClient("mongodb+srv://chri733q:password@cluster0.wejpo.mongodb.net/test")
 
 
 mydb = myclient["mydatabase"]
